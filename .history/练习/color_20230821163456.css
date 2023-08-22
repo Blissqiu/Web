@@ -1,0 +1,9 @@
+*{
+    font-family: "Pingfang SC";
+}
+h1 {
+    color: red;
+}
+h1,h2{
+    font-size: 20px;
+}
